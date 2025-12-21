@@ -24,3 +24,4 @@ to understand sales performance, pricing strategies, and customer behavior.
 
 ## Status
 Week 1 completed: Use Case & Business Understanding
+week 2 completed: Data Preparation and ETL
