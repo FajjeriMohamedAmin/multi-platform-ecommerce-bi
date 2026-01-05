@@ -26,3 +26,4 @@ to understand sales performance, pricing strategies, and customer behavior.
 - Week 1 completed: Use Case & Business Understanding
 - week 2 completed: Data Preparation & ETL
 - week 3 completed: Data Modeling & Dashboard Development 
+- week 4 completed: Insights report 
